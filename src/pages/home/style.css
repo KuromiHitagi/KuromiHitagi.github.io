@@ -1,0 +1,16 @@
+.pai{
+    background-image:linear-gradient(to bottom, rgb(255,255,255), rgb(255,5,30));
+}
+
+.fundo{
+
+}
+
+.cards{
+    display:flex;
+    overflow:hidden;
+
+    background-color: white;
+    border: solid 1px transparent;
+    border-radius: 5px;
+}
